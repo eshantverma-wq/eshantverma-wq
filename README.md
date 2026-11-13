@@ -92,7 +92,7 @@ Repositories will include sample and demonstration projects such as:
 ## 🤝 Let's Connect
 
 -   **GitHub:** [@eshantverma-wq](https://github.com/eshantverma-wq)
--   **LinkedIn:** Add your LinkedIn profile URL here
+-   **LinkedIn:** (https://www.linkedin.com/in/eshant-verma-346b39366/)
 
 I'm always interested in connecting with QA professionals, automation
 engineers, and people working on software quality and security testing.
