@@ -1,6 +1,6 @@
 # Hi, I'm Eshant Verma 👋
 
-### QA Team Lead \| Software Testing Professional \| 15+ Years of Experience
+### QA Team Lead \| Software Testing Professional \| 15 Years of Experience
 
 I'm a Quality Assurance professional with 15+ years of experience in
 software testing, helping teams improve product quality through
@@ -15,7 +15,7 @@ automation and AI-assisted workflows.
 ## 👨‍💻 About Me
 
 -   **Role:** QA Team Lead
--   **Experience:** 15+ years in Software Testing
+-   **Experience:** 15 years in Software Testing
 -   **Domain exposure:** Web applications, blockchain, and Web3
     platforms
 -   **Core focus:** Quality Engineering, Test Automation, API Testing,
