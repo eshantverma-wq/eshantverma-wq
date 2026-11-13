@@ -71,24 +71,6 @@ automation and AI-assisted workflows.
 
 ------------------------------------------------------------------------
 
-## 📂 What You'll Find in My Repositories
-
-I'm building this GitHub profile as a practical QA portfolio.
-Repositories will include sample and demonstration projects such as:
-
--   Selenium + Java + TestNG automation framework
--   REST API test collections and automation examples
--   JMeter performance-testing examples
--   Security-testing checklists and safe demonstration labs
--   Blockchain and Web3 application testing scenarios
--   QA templates, test cases, and documentation examples
-
-> Projects and examples shared here are intended for learning and
-> demonstration. They do not contain confidential company code, customer
-> data, production credentials, or private keys.
-
-------------------------------------------------------------------------
-
 ## 🤝 Let's Connect
 
 -   **GitHub:** [@eshantverma-wq](https://github.com/eshantverma-wq)
